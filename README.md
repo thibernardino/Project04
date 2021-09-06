@@ -1,3 +1,6 @@
+An API with Spring Boot to manage the meeting rooms, I used Spring Data for data persistence and the H2 in-memory database. And the Front End that consumes this API is a SPA written in Angular.
+
+
 # ClientRoom
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
